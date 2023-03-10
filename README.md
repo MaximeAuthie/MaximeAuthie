@@ -3,13 +3,13 @@
 - 🌱 In professional reconversion to become a web application designer and developer.
 - 🤔 I’m looking for an internship of 10 weeks from 19/06/2023.
 - 📫 How to reach me: authie.maxime@orange.fr
--  :evergreen_tree: :running: :walking: :fishing_pole_and_fish: Outdoor lover (trail, running, trekking, fishing)
--  :books: :dragon_face: :space_invader: :shipit: :shipit: Book reader (fantasy, SF, polar)
+-  :evergreen_tree: Outdoor activities lover (:running: trail/running, :walking: trekking, :fishing_pole_and_fish: fishing)
+-  :books: Book reader (:dragon_face: fantasy, :space_invader: SF, :shipit: polar)
 
-
+  
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maxime-authie-b10931149/) 
-
+  
 # 💻 Programming Languages & Framework:
 
 - Frontend :  
