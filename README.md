@@ -3,6 +3,8 @@
 - 🌱 In professional reconversion to become a web application designer and developer.
 - 🤔 I’m looking for an internship of 10 weeks from 19/06/2023.
 - 📫 How to reach me: authie.maxime@orange.fr
+-  :evergreen_tree: :running: :walking: :fishing_pole_and_fish: Outdoor lover (trail, running, trekking, fishing)
+-  :books: :dragon_face: :space_invader: :shipit: :shipit: Book reader (fantasy, SF, polar)
 
 
 # 🌐 Socials:
@@ -21,11 +23,10 @@
 
 - Others :  
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeAuthie&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MaximeAuthie&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaximeAuthie&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximeAuthie&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
