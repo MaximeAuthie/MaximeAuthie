@@ -5,6 +5,7 @@
 - 📫 How to reach me: authie.maxime@orange.fr
 -  :evergreen_tree: Outdoor activities lover (:running: trail/running, :walking: trekking, :fishing_pole_and_fish: fishing)
 -  :books: Book reader (:dragon_face: fantasy, :space_invader: SF, :shipit: polar)
+-  :point_right: Others : :tennis: padel
 
   
 # 🌐 Socials:
