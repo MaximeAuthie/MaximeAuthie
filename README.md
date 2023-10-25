@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 🌱 In professional reconversion to become a web application designer and developer.
-- 🤔 I’m looking for an internship of 10 weeks from 19/06/2023.
+- 🤔 I’m looking for a first job as a web designer.
 - 📫 How to reach me : authie.maxime@orange.fr
 -  :evergreen_tree: Outdoor activities lover (:running: trail/running, :walking: trekking, :fishing_pole_and_fish: fishing)
 -  :books: Book reader (:dragon_face: fantasy, :space_invader: SF,  :shipit: polar)
